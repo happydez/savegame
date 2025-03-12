@@ -14,3 +14,5 @@ It works well on my **LAN server**, but I haven't tested it for potential issues
 - `!restore`  
 - `!pc`  
 - `!savegame` 
+
+**NOTE:** This plugin was written for the bhoptimer based on commit [ad008dc00a6f7a2f00c09025900886347b33b663](https://github.com/shavitush/bhoptimer/commit/ad008dc00a6f7a2f00c09025900886347b33b663).  
